@@ -1,0 +1,30 @@
+
+#contact {
+	clear: left;
+}
+
+#basic p {
+	float: left;
+	margin-top: 1px;
+	margin-right: 35px;
+	font-size: 95%;
+}
+
+#contact p {
+	float: left;
+	margin-top: 1px;
+	margin-right: 35px;
+	font-size: 95%;
+}
+
+span {
+	font-weight: bold;
+}
+
+#skill {
+	clear: left;
+}
+
+#skill, #educated, #experience {
+	font-weight: bold;
+}
