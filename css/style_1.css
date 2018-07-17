@@ -25,6 +25,10 @@ span {
 	clear: left;
 }
 
-#skill, #educated, #experience {
+#skill, #educated, {
 	font-weight: bold;
+}
+
+##experience {
+	clear: both;
 }

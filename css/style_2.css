@@ -1,0 +1,45 @@
+#head {
+	float: left;
+	background-color: #6495ED;
+	padding: 55px 50px 625px 50px;
+	margin-right: 20px;
+	color: white;
+}
+
+#basic {
+	float: left;
+}
+
+#contact {
+	float: left;
+}
+
+#basic p {
+	float: left;
+	margin-top: 1px;
+	margin-right: 35px;
+	font-size: 95%;
+}
+
+
+#contact p {
+	float: left;
+	margin-top: 1px;
+	margin-right: 35px;
+	font-size: 95%;
+}
+
+#skill,
+#educated,
+#experience {
+	font-weight: bold;
+}
+
+#skill,
+#educated,
+#experience {
+	margin-right: 200px;
+	float: left;
+}
+
+
