@@ -1,2 +1,2 @@
-# day05
-Make 3 different pages
+# day05-day06
+Try to make 3 different pages
