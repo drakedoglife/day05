@@ -1,17 +1,14 @@
 #head {
 	float: left;
 	background-color: #6495ED;
-	padding: 55px 50px 625px 50px;
+	padding: 55px 50px 570px 50px;
 	margin-right: 20px;
 	color: white;
 }
 
-#basic {
-	float: left;
-}
-
-#contact {
-	float: left;
+.normal {
+	position: absolute;
+	left: 190px;
 }
 
 #basic p {
@@ -29,17 +26,15 @@
 	font-size: 95%;
 }
 
+#contact {
+	clear: left;
+}
+
 #skill,
 #educated,
 #experience {
 	font-weight: bold;
 }
 
-#skill,
-#educated,
-#experience {
-	margin-right: 200px;
-	float: left;
-}
 
 
