@@ -74,7 +74,10 @@ h2 {
 	float: left;
 }
 
-#skill,
-#educated,
-#experience p {
-	
+ br {
+	display: none;
+}
+
+span {
+	font-weight: bold;
+}
