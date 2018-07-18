@@ -1,5 +1,80 @@
 #head {
-	background-color: gray;
-	padding-left: 50px;
+	background-color: #696969;
+	padding-left: 60px;
+	padding-top: 10px;
+	padding-bottom: 10px;
 	color: white;
+	font-size: 75%;
+	margin: 0px;
 }
+
+h2 {
+	width: 100px;
+	padding: 2.2cm 1.5cm;
+	background-color: #D3D3D3;
+	margin: 1px 15px 1px 1px;
+	float: left;
+}
+
+#basic {
+	width: 100%;
+	border-style: solid;
+	border-color: grey;
+	border-width: 1px;
+	float: left;
+}
+
+.info {
+	margin-top: 15px;
+}
+
+#basic p {
+	float: left;
+	margin-top: 1px;
+	margin-right: 35px;
+	font-size: 95%;
+}
+
+#contact {
+	width: 100%;
+	border-style: solid;
+	border-color: grey;
+	border-width: 1px;
+	float: left;
+}
+
+#contact p {
+	float: left;
+	margin-top: 1px;
+	margin-right: 35px;
+	font-size: 95%;
+}
+
+#skill {
+	width: 100%;
+	border-style: solid;
+	border-color: grey;
+	border-width: 1px;
+	float: left;
+}
+
+#educated {
+	width: 100%;
+	border-style: solid;
+	border-color: grey;
+	border-width: 1px;
+	float: left;
+}
+
+#experience {
+	width: 100%;
+	border-style: solid;
+	border-color: grey;
+	border-width: 1px;
+	float: left;
+}
+
+#skill,
+#educated,
+#experience p {
+	
